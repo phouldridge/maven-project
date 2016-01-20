@@ -24,3 +24,9 @@ catalog
 #------------------#
 activemq-data
 derby.log
+
+#---------------#
+# Strange files #
+#---------------#
+.rid
+Icon?
